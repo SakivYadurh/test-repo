@@ -3,3 +3,6 @@ function sayHello(){
     return "Hello";
 }
 let hello = sayHello();
+function sayBye(){
+    return "Bye";
+}
