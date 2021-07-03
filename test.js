@@ -6,3 +6,4 @@ let hello = sayHello();
 function sayBye(){
     return "Bye";
 }
+let bye = sayBye();
